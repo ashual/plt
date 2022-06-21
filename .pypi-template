@@ -1,0 +1,21 @@
+a_description_for_the_package: Faster Matplotlib show
+classifiers: []
+console_scripts:
+- main add_something
+- main
+first_year_of_publication: '2022'
+github_account: ashual/plt
+github_repo_name: plt
+keywords_describing_the_package: matplotlib
+license: MIT
+package_module_name: plt
+package_name: plt
+package_tagline: plt
+package_title: plt
+requires:
+- matplotlib
+scripts: []
+your_author_name: Oron Ashual
+your_email_address: ashualon@gmail.com
+your_full_name: Oron Ashual
+your_name: Oron
